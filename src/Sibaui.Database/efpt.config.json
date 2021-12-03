@@ -1,0 +1,97 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "SContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Context",
+   "OutputPath": "Entities",
+   "ProjectRootNamespace": "Sibaui.Database",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "gangwars",
+         "ObjectType": 0
+      },
+      {
+         "Name": "garages",
+         "ObjectType": 0
+      },
+      {
+         "Name": "inventories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "inventory_types",
+         "ObjectType": 0
+      },
+      {
+         "Name": "items",
+         "ObjectType": 0
+      },
+      {
+         "Name": "player_characters",
+         "ObjectType": 0
+      },
+      {
+         "Name": "player_inventories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "player_team_infos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "player_weapons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "players",
+         "ObjectType": 0
+      },
+      {
+         "Name": "team_hideout_weapons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "team_infos",
+         "ObjectType": 0
+      },
+      {
+         "Name": "teams",
+         "ObjectType": 0
+      },
+      {
+         "Name": "vehicles",
+         "ObjectType": 0
+      },
+      {
+         "Name": "weapons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "inventory_items",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": ".sibaui",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
