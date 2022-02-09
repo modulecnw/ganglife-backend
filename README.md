@@ -1,5 +1,5 @@
-# Sibaui Ganglife Backend
-Dies ist das Backend des GTA RP Servers Sibaui Ganglife basierend auf der Multiplayer Modifikation RAGE:MP.
+# Ganglife Backend
+Dies ist das Backend des GTA RP Servers Ganglife basierend auf der Multiplayer Modifikation RAGE:MP.
 Danke an die Mitwirkenden.
 
 ## Naming Guidelines
@@ -8,7 +8,7 @@ Das sind die [Naming Guidelines](https://github.com/ktaranov/naming-convention/b
 ## Contributors
 
 - Dschahannam (Dschahannam.#7657)
-- cypress
+- soren
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
